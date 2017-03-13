@@ -1,0 +1,9 @@
+{
+  "name": "wpjs.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.0.1"
+  }
+}
